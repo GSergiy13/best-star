@@ -1,0 +1,62 @@
+@font-face{
+    font-family:"War_Regular";
+    src:url("../fonts/WarnockPro-Regular.otf") ;
+}
+@font-face{
+    font-family:"War_Bold";
+    src:url("../fonts/WarnockPro-Bold.otf") ;
+}
+@font-face{
+    font-family:"Lato_Black";
+    src:url("../fonts/Lato/Lato-Black.ttf") ;
+}
+
+@font-face{
+    font-family:"Lato_Hairline";
+    src:url("../fonts/Lato/Lato-Hairline.ttf") ;
+}
+@font-face{
+    font-family:"Lato_Heavy";
+    src:url("../fonts/Lato/Lato-Heavy.ttf") ;
+}
+@font-face{
+    font-family:"Lato_Italic";
+    src:url("../fonts/Lato/Lato-Italic.ttf") ;
+}
+@font-face{
+    font-family:"Lato_Light";
+    src:url("../fonts/Lato/Lato-Light.ttf") ;
+}
+@font-face{
+    font-family:"Lato_LightItalic";
+    src:url("../fonts/Lato/Lato-LightItalic.ttf") ;
+}
+@font-face{
+    font-family:"Lato-Medium";
+    src:url("../fonts/Lato/Lato-Medium.ttf") ;
+}
+@font-face{
+    font-family:"Lato_MediumItalic";
+    src:url("../fonts/Lato/Lato-MediumItalic.ttf") ;
+}
+@font-face{
+    font-family:"Lato_Regular";
+    src:url("../fonts/Lato/Lato-Regular.ttf") ;
+}
+@font-face{
+    font-family:"Lato_Semibold";
+    src:url("../fonts/Lato/Lato-Semibold.ttf") ;
+}
+@font-face{
+    font-family:"Lato_SemiboldItalic";
+    src:url("../fonts/Lato/Lato-SemiboldItalic.ttf") ;
+}
+@font-face{
+    font-family:"Lato_Thin";
+    src:url("../fonts/Lato/Lato-Thin.ttf") ;
+}
+@font-face{
+    font-family:"Lato_ThinItalic";
+    src:url("../fonts/Lato/Lato-ThinItalic.ttf") ;
+}
+
